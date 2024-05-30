@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PortFolioJB/static/css/main.24da1080.css",
+    "main.js": "/PortFolioJB/static/js/main.17b91ee9.js",
+    "static/js/453.1407b060.chunk.js": "/PortFolioJB/static/js/453.1407b060.chunk.js",
+    "static/media/fond.gif": "/PortFolioJB/static/media/fond.2decb46ffc82ff5c61d3.gif",
+    "static/media/CVJB.jpg": "/PortFolioJB/static/media/CVJB.ac4cfcb178117552f60a.jpg",
+    "static/media/Myyuka.PNG": "/PortFolioJB/static/media/Myyuka.757fad8ba005a1606e11.PNG",
+    "static/media/ACDC.PNG": "/PortFolioJB/static/media/ACDC.4f32aae8a218d5076eea.PNG",
+    "static/media/AFPA.PNG": "/PortFolioJB/static/media/AFPA.f205eecdc4260b0a03e5.PNG",
+    "static/media/justePrix.PNG": "/PortFolioJB/static/media/justePrix.ecd73b839e58055a2330.PNG",
+    "static/media/logoJB3.png": "/PortFolioJB/static/media/logoJB3.266d51a7a6f23a0e4016.png",
+    "static/media/CascadiaCode-Regular.otf": "/PortFolioJB/static/media/CascadiaCode-Regular.924de73fe80295f8b240.otf",
+    "static/media/CVJB.pdf": "/PortFolioJB/static/media/CVJB.38975926375dc3facdd0.pdf",
+    "static/media/masterMind.PNG": "/PortFolioJB/static/media/masterMind.9dec8e14711f17075e63.PNG",
+    "static/media/pendu.PNG": "/PortFolioJB/static/media/pendu.70522be917196c8cd123.PNG",
+    "index.html": "/PortFolioJB/index.html",
+    "main.24da1080.css.map": "/PortFolioJB/static/css/main.24da1080.css.map",
+    "main.17b91ee9.js.map": "/PortFolioJB/static/js/main.17b91ee9.js.map",
+    "453.1407b060.chunk.js.map": "/PortFolioJB/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24da1080.css",
+    "static/js/main.17b91ee9.js"
+  ]
+}
